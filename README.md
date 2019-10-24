@@ -1,4 +1,4 @@
-The project is a fork of SoundTouch(https://github.com/rspeyer/soundtouch). 
+The source code for this project comes from SoundTouch(https://github.com/rspeyer/soundtouch). 
 
 License:
 
