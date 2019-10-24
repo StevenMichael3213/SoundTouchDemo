@@ -1,6 +1,6 @@
-The source code for this project comes from SoundTouch(https://github.com/rspeyer/soundtouch). 
+SoundTouchDemo is a Android port of SoundTouch(https://github.com/rspeyer/soundtouch).
 
-License:
+###License:
 
 Modifications copyright (C) 2019 StevenMichael3213
 
