@@ -6,7 +6,7 @@ Modifications copyright (C) 2019 StevenMichael3213
 
 SoundTouch audio processing library Copyright (c) Olli Parviainen
 
-This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License version 2.1 as published by the Free Software Foundation.
+This library is free software; you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html) as published by the Free Software Foundation.
 
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
 
